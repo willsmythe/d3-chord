@@ -1,5 +1,7 @@
 # d3-chord
 
+[![Build Status](https://dev.azure.com/d3/d3/_apis/build/status/d3.d3-chord)](https://dev.azure.com/d3/d3/_build/definition?definitionId=5)
+
 Visualize relationships or network flow with an aesthetically-pleasing circular layout.
 
 [<img alt="Chord Diagram" src="https://raw.githubusercontent.com/d3/d3-chord/master/img/chord.png" width="480" height="480">](http://bl.ocks.org/mbostock/4062006)
